@@ -7,8 +7,6 @@ CREATE TABLE "advice" (
         "description_content" TEXT NOT NULL
     );
 
-
-
 INSERT INTO "advice" ("id", "description_content") VALUES
 (1,'Avant de faire du sport, pas d’étirements mais un échauffement actif.'),
 (2,'Ne vous forcez jamais et ne vous poussez jamais au-delà de vos limites.'),
